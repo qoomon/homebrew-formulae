@@ -1,2 +1,2 @@
-# homebrew-formulae
-Homebrew Hormulae
+# homebrew-tab
+Homebrew Formulae
