@@ -6,10 +6,7 @@ class AwsAssume < Formula
   sha256 "68b74f3757bed9b21ea445974111c3b9ff73e7182370a76384942f4ca468b400"
 
   def install
-    
-    system "mv", "assume-role-Darwin", "aws-asume"
-    
-    bin.install "aws-assume"
+    bin.install "assume-role-Darwin" => "aws-asume"
   end
 
   test do
