@@ -1,4 +1,4 @@
-class AssumeRole < Formula
+class AwsAssume < Formula
   desc "Easily assume AWS roles in your terminal"
   homepage "https://github.com/qoomon/aws-assume"
   url "https://github.com/remind101/assume-role/releases/download/0.3.2/assume-role-Darwin"
