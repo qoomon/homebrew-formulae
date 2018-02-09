@@ -1,5 +1,5 @@
 class AwsAssume < Formula
-  desc "Easily assume AWS roles in your terminal"
+  desc "Easily assume AWS prodiles and roles in your terminal"
   homepage "https://github.com/qoomon/aws-assume"
   url "https://github.com/qoomon/aws-assume/releases/download/v1.0.0/aws-assume-darwin.zip"
   version "1.0.0"
