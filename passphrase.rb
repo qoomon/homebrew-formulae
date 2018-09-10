@@ -5,8 +5,7 @@ class Passphrase < Formula
   version "1.0.0"
 
   def install
-     share.install "wordlists"
-     bin.install "passphrase"
+    bin.install_symlink "passphrase"
   end
 
   test do
