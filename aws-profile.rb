@@ -1,9 +1,9 @@
 class AwsProfile < Formula
   desc "aws-profile is a command line tool to help creating aws profile configs"
   homepage "https://github.com/qoomon/aws-profile"
-  url "https://raw.githubusercontent.com/qoomon/aws-profile/v3.0.1/aws-profile"
-  version "3.0.1"
-  sha256 "39147262b7609c7c60986e7d58908e524f5dcb3456dcdbc1af878314635835a4"
+  url "https://raw.githubusercontent.com/qoomon/aws-profile/v3.0.2/aws-profile"
+  version "3.0.2"
+  sha256 "34b98cae973cfe83cc258ef7f79a793c25cb78b71103b9b798b8370e4da5caec"
 
   def install
     bin.install "aws-profile"
